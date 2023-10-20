@@ -1,0 +1,20 @@
+C:\Users\User\Desktop\Sisprog\Test Menu\Test Menu\Test Menu\bin\Debug\Test Menu.exe.config
+C:\Users\User\Desktop\Sisprog\Test Menu\Test Menu\Test Menu\bin\Debug\Test Menu.exe
+C:\Users\User\Desktop\Sisprog\Test Menu\Test Menu\Test Menu\bin\Debug\Test Menu.pdb
+C:\Users\User\Desktop\Sisprog\Test Menu\Test Menu\Test Menu\obj\Debug\Test Menu.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Sisprog\Test Menu\Test Menu\Test Menu\obj\Debug\Test_Menu.Form1.resources
+C:\Users\User\Desktop\Sisprog\Test Menu\Test Menu\Test Menu\obj\Debug\Test_Menu.Properties.Resources.resources
+C:\Users\User\Desktop\Sisprog\Test Menu\Test Menu\Test Menu\obj\Debug\Test Menu.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Sisprog\Test Menu\Test Menu\Test Menu\obj\Debug\Test Menu.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sisprog\Test Menu\Test Menu\Test Menu\obj\Debug\Test Menu.exe
+C:\Users\User\Desktop\Sisprog\Test Menu\Test Menu\Test Menu\obj\Debug\Test Menu.pdb
+C:\Users\User\Desktop\Test Menu\Test Menu\Test Menu\bin\Debug\Test Menu.exe.config
+C:\Users\User\Desktop\Test Menu\Test Menu\Test Menu\bin\Debug\Test Menu.exe
+C:\Users\User\Desktop\Test Menu\Test Menu\Test Menu\bin\Debug\Test Menu.pdb
+C:\Users\User\Desktop\Test Menu\Test Menu\Test Menu\obj\Debug\Test Menu.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Test Menu\Test Menu\Test Menu\obj\Debug\Test_Menu.Form1.resources
+C:\Users\User\Desktop\Test Menu\Test Menu\Test Menu\obj\Debug\Test_Menu.Properties.Resources.resources
+C:\Users\User\Desktop\Test Menu\Test Menu\Test Menu\obj\Debug\Test Menu.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Test Menu\Test Menu\Test Menu\obj\Debug\Test Menu.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Test Menu\Test Menu\Test Menu\obj\Debug\Test Menu.exe
+C:\Users\User\Desktop\Test Menu\Test Menu\Test Menu\obj\Debug\Test Menu.pdb

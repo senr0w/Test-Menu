@@ -35,6 +35,7 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.ExitGame = new System.Windows.Forms.Button();
             this.Menu = new System.Windows.Forms.Panel();
+            this.button2 = new System.Windows.Forms.Button();
             this.Header.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.Menu.SuspendLayout();
@@ -44,6 +45,7 @@
             // 
             this.Header.BackColor = System.Drawing.Color.DimGray;
             this.Header.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Header.Controls.Add(this.button2);
             this.Header.Controls.Add(this.ExitGame);
             this.Header.Dock = System.Windows.Forms.DockStyle.Top;
             this.Header.Location = new System.Drawing.Point(0, 0);
@@ -97,12 +99,12 @@
             // ExitGame
             // 
             this.ExitGame.BackColor = System.Drawing.Color.DarkSalmon;
-            this.ExitGame.Dock = System.Windows.Forms.DockStyle.Right;
             this.ExitGame.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
             this.ExitGame.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSalmon;
             this.ExitGame.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.ExitGame.Font = new System.Drawing.Font("Shadow Beamer", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ExitGame.Location = new System.Drawing.Point(1238, 0);
+            this.ExitGame.Margin = new System.Windows.Forms.Padding(0, 0, 0, 0);
             this.ExitGame.Name = "ExitGame";
             this.ExitGame.Size = new System.Drawing.Size(40, 32);
             this.ExitGame.TabIndex = 2;
@@ -112,12 +114,29 @@
             // 
             // Menu
             // 
+            this.Menu.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.Menu.Controls.Add(this.PlayGame);
             this.Menu.Controls.Add(this.button1);
             this.Menu.Location = new System.Drawing.Point(44, 421);
             this.Menu.Name = "Menu";
             this.Menu.Size = new System.Drawing.Size(241, 249);
             this.Menu.TabIndex = 2;
+            // 
+            // button2
+            // 
+            this.button2.BackColor = System.Drawing.Color.DarkSalmon;
+            this.button2.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.button2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSalmon;
+            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button2.Font = new System.Drawing.Font("Shadow Beamer", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button2.Location = new System.Drawing.Point(1197, 0);
+            this.button2.Margin = new System.Windows.Forms.Padding(0, 0, 0, 0);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(40, 32);
+            this.button2.TabIndex = 3;
+            this.button2.Text = "_";
+            this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.Сurtail_Click);
             // 
             // Form1
             // 
@@ -151,6 +170,7 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button ExitGame;
         private System.Windows.Forms.Panel Menu;
+        public System.Windows.Forms.Button button2;
     }
 }
 
